@@ -22,7 +22,7 @@
     "test": "bun scripts/test.ts"
   },
   "devDependencies": {
-    "@lobehub/lint": "latest",
+    "@aipmorg/lint": "latest",
     "@octokit/rest": "^20",
     "@types/fs-extra": "^11",
     "@types/lodash-es": "^4",

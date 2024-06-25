@@ -31,8 +31,8 @@ jobs:
 
       - name: Prettier
         run: |
-          echo "module.exports = require('@lobehub/lint').remarklint;" >> .remarkrc.cjs
-          echo "module.exports = require('@lobehub/lint').prettier;" >> .prettierrc.cjs
+          echo "module.exports = require('@aipmorg/lint').remarklint;" >> .remarkrc.cjs
+          echo "module.exports = require('@aipmorg/lint').prettier;" >> .prettierrc.cjs
           bun run lint:md
           bun run prettier
           rm .remarkrc.cjs

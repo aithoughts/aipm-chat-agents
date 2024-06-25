@@ -6,7 +6,7 @@ import { resolve } from 'node:path';
 import { Parser } from './Parser';
 import { formatAgentJSON, formatPrompt } from './check';
 import { agents, config, localesDir } from './const';
-import { translateJSON } from './i18n';
+import { translateJSON } from './i18n-local';
 import { checkJSON, getLocaleAgentFileName, split, writeJSON } from './utils';
 
 class Formatter {
