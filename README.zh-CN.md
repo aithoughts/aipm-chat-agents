@@ -14,7 +14,7 @@
 
 <!-- SHIELD GROUP -->
 
-[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lobehub/lobe-chat-agents)
+[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aipmhub/aipm-chat-agents)
 [![website][website-shield]][website-url]
 [![][github-action-test-shield]][github-action-test-link]
 [![][github-action-release-shield]][github-action-release-link]<br/>
@@ -5091,7 +5091,7 @@ GPT Agent Prompt 优化专家。清晰、精确、简明
 [![][bun-shield]][bun-link]
 
 ```bash
-$ git clone https://github.com/lobehub/lobe-chat-agents.git
+$ git clone https://github.com/aipmhub/aipm-chat-agents.git
 $ cd lobe-chat-agents
 $ bun install
 ```
@@ -5146,26 +5146,26 @@ This project is [MIT](./LICENSE) licensed.
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
 [bun-link]: https://bun.sh
 [bun-shield]: https://img.shields.io/badge/-speedup%20with%20bun-black?logo=bun&style=for-the-badge
-[github-action-release-link]: https://github.com/lobehub/lobe-chat-agents/actions/workflows/release.yml
-[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/lobehub/lobe-chat-agents/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-test-link]: https://github.com/lobehub/lobe-chat-agents/actions/workflows/test.yml
-[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/lobehub/lobe-chat-agents/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-codespace-link]: https://codespaces.new/lobehub/lobe-chat-agents
+[github-action-release-link]: https://github.com/aipmhub/aipm-chat-agents/actions/workflows/release.yml
+[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/aipmhub/aipm-chat-agents/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-action-test-link]: https://github.com/aipmhub/aipm-chat-agents/actions/workflows/test.yml
+[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/aipmhub/aipm-chat-agents/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-codespace-link]: https://codespaces.new/aipmhub/aipm-chat-agents
 [github-codespace-shield]: https://github.com/codespaces/badge.svg
-[github-contrib-link]: https://github.com/lobehub/lobe-chat-agents/graphs/contributors
+[github-contrib-link]: https://github.com/aipmhub/aipm-chat-agents/graphs/contributors
 [github-contrib-shield]: https://contrib.rocks/image?repo=lobehub%2Flobe-chat-agents
-[github-contributors-link]: https://github.com/lobehub/lobe-chat-agents/graphs/contributors
-[github-contributors-shield]: https://img.shields.io/github/contributors/lobehub/lobe-chat-agents?color=c4f042&labelColor=black&style=flat-square
-[github-forks-link]: https://github.com/lobehub/lobe-chat-agents/network/members
-[github-forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-chat-agents?color=8ae8ff&labelColor=black&style=flat-square
-[github-issues-link]: https://github.com/lobehub/lobe-chat-agents/issues
-[github-issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-chat-agents?color=ff80eb&labelColor=black&style=flat-square
-[github-stars-link]: https://github.com/lobehub/lobe-chat-agents/network/stargazers
-[github-stars-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat-agents?color=ffcb47&labelColor=black&style=flat-square
+[github-contributors-link]: https://github.com/aipmhub/aipm-chat-agents/graphs/contributors
+[github-contributors-shield]: https://img.shields.io/github/contributors/aipmhub/aipm-chat-agents?color=c4f042&labelColor=black&style=flat-square
+[github-forks-link]: https://github.com/aipmhub/aipm-chat-agents/network/members
+[github-forks-shield]: https://img.shields.io/github/forks/aipmhub/aipm-chat-agents?color=8ae8ff&labelColor=black&style=flat-square
+[github-issues-link]: https://github.com/aipmhub/aipm-chat-agents/issues
+[github-issues-shield]: https://img.shields.io/github/issues/aipmhub/aipm-chat-agents?color=ff80eb&labelColor=black&style=flat-square
+[github-stars-link]: https://github.com/aipmhub/aipm-chat-agents/network/stargazers
+[github-stars-shield]: https://img.shields.io/github/stars/aipmhub/aipm-chat-agents?color=ffcb47&labelColor=black&style=flat-square
 [pr-welcome-shield]: https://img.shields.io/badge/🤖/🏪_submit_agent-%E2%86%92-c4f042?labelColor=black&style=for-the-badge
 [profile-url]: https://github.com/lobehub
-[submit]: https://github.com/lobehub/lobe-chat-agents/issues/new/choose
+[submit]: https://github.com/aipmhub/aipm-chat-agents/issues/new/choose
 [vercel-deploy-link]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat-agents&project-name=lobe-chat-agents&repository-name=lobe-chat-agents
 [vercel-deploy-shield]: https://vercel.com/button
-[website-shield]: https://img.shields.io/website?down_message=offline&label=chat-agents.lobehub.com&up_message=online&url=https%3A%2F%2Fchat-agents.lobehub.com&labelColor=black&logo=vercel&style=flat-square
-[website-url]: https://chat-agents.lobehub.com
+[website-shield]: https://img.shields.io/website?down_message=offline&label=chat-agents.theforage.cn&up_message=online&url=https%3A%2F%2Fchat-agents.theforage.cn&labelColor=black&logo=vercel&style=flat-square
+[website-url]: https://chat-agents.theforage.cn

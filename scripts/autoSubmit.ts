@@ -97,7 +97,7 @@ class AutoSubmit {
   gitCommit(filePath, agent, agentName) {
     execSync('git diff');
     execSync('git config --global user.name "lobehubbot"');
-    execSync('git config --global user.email "i@lobehub.com"');
+    execSync('git config --global user.email "nextprofessionalpower@gmail.com"');
     execSync('git pull');
     execSync(`git checkout -b agent/${agentName}`);
     consola.info('Checkout branch');

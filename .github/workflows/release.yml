@@ -42,7 +42,7 @@ jobs:
         run: |-
           git diff
           git config --global user.name "lobehubbot"
-          git config --global user.email "i@lobehub.com"
+          git config --global user.email "nextprofessionalpower@gmail.com"
           git add .
           git commit -m "🤖 chore: Auto format and add i18n json files" || exit 0
           git push
