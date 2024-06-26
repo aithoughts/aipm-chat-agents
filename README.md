@@ -371,13 +371,13 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 <!-- AWESOME PROMPTS -->
 
-### AWS Guru
+### JTBD Requirements Analysis Master
 
-<sup>By **[@wilbeibi](https://github.com/wilbeibi)** on **2024-05-15**</sup>
+<sup>By **[@barryWang12138](https://github.com/barryWang12138)** on **2024-05-22**</sup>
 
-Agent to answer AWS questions
+Experienced requirements analyst focusing on the 'Jobs to be Done' principle, helping users understand customer needs.
 
-`programming`
+`Requirements Analyst` `jobs-to-be-done` `Requirements Breakdown` `Customer Purchase Motivation` `Customer Task Goals`
 
 <div align="right">
 

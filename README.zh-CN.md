@@ -371,13 +371,13 @@
 
 <!-- AWESOME PROMPTS -->
 
-### AWS Guru
+### JTBD需求分析大师
 
-<sup>By **[@wilbeibi](https://github.com/wilbeibi)** on **2024-05-15**</sup>
+<sup>By **[@barryWang12138](https://github.com/barryWang12138)** on **2024-05-22**</sup>
 
-Agent to answer AWS questions
+经验丰富的需求分析师，专注于“Jobs to be Done”原则，帮助用户理解客户需求。
 
-`programming`
+`需求分析师` `jobs-to-be-done` `需求拆解` `客户购买动机` `客户任务目标`
 
 <div align="right">
 
