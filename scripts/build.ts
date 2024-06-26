@@ -1,14 +1,26 @@
-import { consola } from 'consola';
-import { readJSONSync, writeJSONSync } from 'fs-extra';
-import { merge } from 'lodash-es';
-import { Dirent, existsSync } from 'node:fs';
-import { resolve } from 'node:path';
-import { zodToJsonSchema } from 'zod-to-json-schema';
+import { consola } from "consola";
+import { readJSONSync, writeJSONSync } from "fs-extra";
+import { merge } from "lodash-es";
+import { Dirent, existsSync } from "node:fs";
+import { resolve } from "node:path";
+import { zodToJsonSchema } from "zod-to-json-schema";
 
-import { Parser } from './Parser';
-import { agents, config, localesDir, meta, publicDir, schemasDir } from './const';
-import { LobeAgent, lobeAgentSchema } from './schema/agentMeta';
-import { checkDir, checkJSON, findDuplicates, getLocaleAgentFileName } from './utils';
+import { Parser } from "./Parser";
+import {
+  agents,
+  config,
+  localesDir,
+  meta,
+  publicDir,
+  schemasDir,
+} from "./const";
+import { LobeAgent, lobeAgentSchema } from "./schema/agentMeta";
+import {
+  checkDir,
+  checkJSON,
+  findDuplicates,
+  getLocaleAgentFileName,
+} from "./utils";
 
 class Builder {
   private agents: Dirent[];
@@ -27,7 +39,11 @@ class Builder {
     for (const file of this.agents) {
       // if file is not json ,skip it
       if (!checkJSON(file)) continue;
-      const { content, locale: defaultLocale, id } = Parser.parseFile(file.name);
+      const {
+        content,
+        locale: defaultLocale,
+        id,
+      } = Parser.parseFile(file.name);
 
       const localeFileName = getLocaleAgentFileName(id, locale);
 
@@ -73,12 +89,12 @@ class Builder {
   buildSchema = () => {
     consola.start(`build agent schema`);
     checkDir(schemasDir);
-    checkDir(resolve(publicDir, 'schema'));
+    checkDir(resolve(publicDir, "schema"));
 
     const schema = zodToJsonSchema(lobeAgentSchema);
     const fileName = `lobeAgentSchema_v${meta.schemaVersion}.json`;
     writeJSONSync(resolve(schemasDir, fileName), schema);
-    writeJSONSync(resolve(publicDir, 'schema', fileName), schema);
+    writeJSONSync(resolve(publicDir, "schema", fileName), schema);
     consola.success(`build success`);
   };
 
@@ -99,7 +115,7 @@ class Builder {
 
       const agentsIndex = { ...meta, tags, agents };
 
-      const indexFileName = getLocaleAgentFileName('index', locale);
+      const indexFileName = getLocaleAgentFileName("index", locale);
       writeJSONSync(resolve(publicDir, indexFileName), agentsIndex);
       consola.success(`build ${locale}`);
     }

@@ -1,19 +1,23 @@
-import { consola } from 'consola';
-import { get, set } from 'lodash-es';
-import { existsSync } from 'node:fs';
-import { resolve } from 'node:path';
+import { consola } from "consola";
+import { get, set } from "lodash-es";
+import { existsSync } from "node:fs";
+import { resolve } from "node:path";
 
-import { Parser } from './Parser';
-import { formatAgentJSON, formatPrompt } from './check';
-import { agents, config, localesDir } from './const';
-import { translateJSON } from './i18n-local';
-import { checkJSON, getLocaleAgentFileName, split, writeJSON } from './utils';
+import { Parser } from "./Parser";
+import { formatAgentJSON, formatPrompt } from "./check";
+import { agents, config, localesDir } from "./const";
+import { translateJSON } from "./i18n";
+import { checkJSON, getLocaleAgentFileName, split, writeJSON } from "./utils";
 
 class Formatter {
   formatJSON = async (fileName: string) => {
     consola.start(fileName);
 
-    let { content: agent, id, locale: defaultLocale } = Parser.parseFile(fileName);
+    let {
+      content: agent,
+      id,
+      locale: defaultLocale,
+    } = Parser.parseFile(fileName);
 
     agent = await formatAgentJSON(agent, defaultLocale);
 
@@ -35,8 +39,12 @@ class Formatter {
         // TODO: localMode flat
         if (existsSync(localeFilePath)) continue;
 
-        consola.log('gen', id, `from [${defaultLocale}] to [${locale}]`);
-        const translateResult = await translateJSON(rawData, locale, defaultLocale);
+        consola.log("gen", id, `from [${defaultLocale}] to [${locale}]`);
+        const translateResult = await translateJSON(
+          rawData,
+          locale,
+          defaultLocale,
+        );
         if (translateResult) {
           translateResult.config.systemRole = await formatPrompt(
             translateResult.config.systemRole,
@@ -52,7 +60,7 @@ class Formatter {
   };
 
   run = async () => {
-    consola.start('Start format json content...');
+    consola.start("Start format json content...");
 
     for (const file of agents) {
       if (checkJSON(file)) {
@@ -62,6 +70,6 @@ class Formatter {
   };
 }
 
-split('FORMAT JSON CONTENT');
+split("FORMAT JSON CONTENT");
 
 await new Formatter().run();

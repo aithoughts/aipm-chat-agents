@@ -1,10 +1,10 @@
-import { z } from 'zod';
+import { z } from "zod";
 
 export const lLMRoleTypeSchema = z.union([
-  z.literal('user'),
-  z.literal('system'),
-  z.literal('assistant'),
-  z.literal('function'),
+  z.literal("user"),
+  z.literal("system"),
+  z.literal("assistant"),
+  z.literal("function"),
 ]);
 
 export const lLMMessageSchema = z.object({
