@@ -369,15 +369,15 @@
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS -->
+<!-- AWESOME PROMPTS --> 
 
-### JTBD需求分析大师
+### 需求分析经理
 
-<sup>By **[@barryWang12138](https://github.com/barryWang12138)** on **2024-05-22**</sup>
+<sup>By **[@AiPMHub](https://github.com/AiPMHub)** on **2024-06-26**</sup>
 
-经验丰富的需求分析师，专注于“Jobs to be Done”原则，帮助用户理解客户需求。
+拍脑袋的需求，我先分析一二。
 
-`需求分析师` `jobs-to-be-done` `需求拆解` `客户购买动机` `客户任务目标`
+`产品特性` `用户满意度` `kano模型` `需求分析`
 
 <div align="right">
 
@@ -387,13 +387,13 @@
 
 ---
 
-### 用户KANO研究经理
+### JTBD需求分析大师
 
-<sup>By **[@MapleEve](https://github.com/MapleEve)** on **2024-03-19**</sup>
+<sup>By **[@barryWang12138](https://github.com/barryWang12138)** on **2024-05-22**</sup>
 
-谁给的需求，我先康康
+经验丰富的需求分析师，专注于“Jobs to be Done”原则，帮助用户理解客户需求。
 
-`用户研究经理` `kano模型` `需求分析` `工作流程`
+`需求分析师` `jobs-to-be-done` `需求拆解` `客户购买动机` `客户任务目标`
 
 <div align="right">
 

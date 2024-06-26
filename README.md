@@ -369,15 +369,15 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS -->
+<!-- AWESOME PROMPTS --> 
 
-### JTBD Requirements Analysis Master
+### Requirements Analysis Manager
 
-<sup>By **[@barryWang12138](https://github.com/barryWang12138)** on **2024-05-22**</sup>
+<sup>By **[@AiPMHub](https://github.com/AiPMHub)** on **2024-06-26**</sup>
 
-Experienced requirements analyst focusing on the 'Jobs to be Done' principle, helping users understand customer needs.
+Let me analyze your off-the-cuff requirements.
 
-`Requirements Analyst` `jobs-to-be-done` `Requirements Breakdown` `Customer Purchase Motivation` `Customer Task Goals`
+`Product Features` `User Satisfaction` `Kano Model` `Requirements Analysis`
 
 <div align="right">
 
@@ -387,13 +387,13 @@ Experienced requirements analyst focusing on the 'Jobs to be Done' principle, he
 
 ---
 
-### User Research Manager - KANO
+### JTBD Requirements Analysis Master
 
-<sup>By **[@MapleEve](https://github.com/MapleEve)** on **2024-03-19**</sup>
+<sup>By **[@barryWang12138](https://github.com/barryWang12138)** on **2024-05-22**</sup>
 
-Who gave the requirements, let me take a look first
+Experienced requirements analyst focusing on the 'Jobs to be Done' principle, helping users understand customer needs.
 
-`User Research Manager` `KANO model` `Requirement Analysis` `Workflow`
+`Requirements Analyst` `jobs-to-be-done` `Requirements Breakdown` `Customer Purchase Motivation` `Customer Task Goals`
 
 <div align="right">
 
