@@ -10,7 +10,12 @@
   "meta": {
     "avatar": "👍",
     "description": "Let me analyze your off-the-cuff requirements.",
-    "tags": ["Product Features", "User Satisfaction", "Kano Model", "Requirements Analysis"],
+    "tags": [
+      "Product Features",
+      "User Satisfaction",
+      "Kano Model",
+      "Requirements Analysis"
+    ],
     "title": "Requirements Analysis Manager"
   },
   "schemaVersion": 1
