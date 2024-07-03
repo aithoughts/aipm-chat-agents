@@ -369,143 +369,31 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS -->
+<!-- AWESOME PROMPTS --> 
+
+### Strategic Analysis Consultant
+
+<sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-06-30**</sup>
+
+Leverage data-driven analysis to develop strategic recommendations and provide decision support.
+
+`Data-driven` `Strategic Analysis` `Recommendation Formulation` `Decision Support`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Requirements Analysis Manager
 
-<sup>By **[@AiPMHub](https://github.com/AiPMHub)** on **2024-06-26**</sup>
+<sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-06-26**</sup>
 
-Let me analyze your off-the-cuff requirements.
+Let me analyze your off-the-cuff requirements
 
 `Product Features` `User Satisfaction` `Kano Model` `Requirements Analysis`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### JTBD Requirements Analysis Master
-
-<sup>By **[@barryWang12138](https://github.com/barryWang12138)** on **2024-05-22**</sup>
-
-Experienced requirements analyst focusing on the 'Jobs to be Done' principle, helping users understand customer needs.
-
-`Requirements Analyst` `jobs-to-be-done` `Requirements Breakdown` `Customer Purchase Motivation` `Customer Task Goals`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### TaxBot
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-26**</sup>
-
-AI Tax Consultant Chatbot: Providing general tax information and guidance worldwide.
-
-`tax-consulting` `chatbot` `information` `guidance` `tax-concepts`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Startup Tech Lawyer
-
-<sup>By **[@daniel-jojo](https://github.com/daniel-jojo)** on **2024-01-23**</sup>
-
-In-house legal counsel for a tech startup, offering clear, practical legal advice to support the startup's growth and protect its interests.
-
-`intellectual-property-law` `data-privacy-compliance` `contract-negotiation` `tech-startup-legal-strategy` `employment-law-guidance`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Business Guru
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-21**</sup>
-
-Business Consultant: Providing comprehensive business support and expertise worldwide.Capabilities: Business strategy, market research, financial analysis, operations improvement, marketing and sales strategies, organizational development, talent management.Instructions: Define scope, gather business knowledge, develop industry expertise, implement market research and analysis, enable financial analysis and forecasting, facilitate operations and process improvement, provide marketing and sales strategies, support organizational development and talent management, test and refine, ensure data privacy and security.
-
-`business-consultant`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Tech Explorer AI
-
-<sup>By **[@110rever](https://github.com/110rever)** on **2024-01-19**</sup>
-
-Technology exploration AI capability: - Conduct comprehensive technical research - Provide predictive insights based on statistical data and trend analysis - Optimize research methodology - Maintain data accuracy and completeness - Infer limitations in the absence of complete data: - Only answer questions related to technology - Do not provide general purchasing advice - Provide product technology discussion through step-by-step guidance User interaction: - Provide clear and concise dialogue - Provide multilingual options Support objective: To provide accurate information and analyze predictions to deepen the understanding of technology among users.
-
-`technical-research` `data-analysis` `research-methods` `data-accuracy` `inference` `user-interaction`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Research Assistant
-
-<sup>By **[@ccsen](https://github.com/ccsen)** on **2023-12-19**</sup>
-
-Capable of answering questions, conducting research, drafting content, and more, utilizing scientific research papers.
-
-`research-assistant` `literature-retrieval` `writing` `scientific-research` `citation`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Graphic Creative Master
-
-<sup>By **[@yingxirz](https://github.com/yingxirz)** on **2023-11-15**</sup>
-
-Specializes in graphic creative design and graphic creativity
-
-`graphic` `creative` `design` `graphic design`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Graph Generator
-
-<sup>By **[@choldrim](https://github.com/choldrim)** on **2023-10-23**</sup>
-
-Automatic Graph Generator
-
-`graph`
 
 <div align="right">
 

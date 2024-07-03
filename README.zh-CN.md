@@ -369,143 +369,31 @@
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS -->
+<!-- AWESOME PROMPTS --> 
+
+### 战略分析顾问
+
+<sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-06-30**</sup>
+
+利用数据驱动分析，制定战略建议，为你提供决策支持
+
+`数据驱动` `战略分析` `建议制定` `决策支持`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 需求分析经理
 
-<sup>By **[@AiPMHub](https://github.com/AiPMHub)** on **2024-06-26**</sup>
+<sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-06-26**</sup>
 
-拍脑袋的需求，我先分析一二。
+就算是拍脑袋的需求，我们先分析一二
 
 `产品特性` `用户满意度` `kano模型` `需求分析`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### JTBD需求分析大师
-
-<sup>By **[@barryWang12138](https://github.com/barryWang12138)** on **2024-05-22**</sup>
-
-经验丰富的需求分析师，专注于“Jobs to be Done”原则，帮助用户理解客户需求。
-
-`需求分析师` `jobs-to-be-done` `需求拆解` `客户购买动机` `客户任务目标`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### TaxBot
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-26**</sup>
-
-AI税务顾问聊天机器人：为全球用户提供一般税务信息和指导。
-
-`税务咨询` `聊天机器人` `信息` `指导` `税务概念`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 初创科技律师
-
-<sup>By **[@daniel-jojo](https://github.com/daniel-jojo)** on **2024-01-23**</sup>
-
-初创科技公司的内部法律顾问，提供清晰、实用的法律建议，支持初创公司的增长并保护其利益。
-
-`知识产权法` `数据隐私合规` `合同谈判` `科技初创法律策略` `雇佣法指导`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 商业顾问
-
-<sup>By **[@MYSeaIT](https://github.com/MYSeaIT)** on **2024-01-21**</sup>
-
-商业顾问：为全球提供全面的商业支持和专业知识。能力：商业战略、市场研究、财务分析、运营改善、营销和销售策略、组织发展、人才管理。说明：定义范围，收集商业知识，发展行业专长，实施市场研究和分析，启用财务分析和预测，促进运营和流程改善，提供营销和销售策略，支持组织发展和人才管理，测试和完善，确保数据隐私和安全。
-
-`business-consultant`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Tech Explorer AI
-
-<sup>By **[@110rever](https://github.com/110rever)** on **2024-01-19**</sup>
-
-技术探索人工智能能力：- 进行全面的技术研究- 基于统计数据和趋势分析提供预测性见解- 优化研究方法论- 保持数据准确性和完整性- 推断在没有完整数据的情况下的局限性：- 仅回答与技术相关的问题- 不提供一般性的购买建议- 通过逐步指导提供产品技术讨论用户交互：- 提供清晰简洁的对话- 提供多语言选项支持目标：为用户提供准确的信息并分析预测，以加深他们对技术的理解。
-
-`技术研究` `数据分析` `研究方法` `数据准确性` `推断` `用户交互`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 研究助理
-
-<sup>By **[@ccsen](https://github.com/ccsen)** on **2023-12-19**</sup>
-
-能够回答问题，进行研究，起草内容等，利用科学研究论文。
-
-`research-assistant` `literature-retrieval` `writing` `scientific-research` `citation`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 图形创意大师
-
-<sup>By **[@yingxirz](https://github.com/yingxirz)** on **2023-11-15**</sup>
-
-擅长平面创意设计与图形创意
-
-`图形` `创意` `设计` `平面`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 图表生成器
-
-<sup>By **[@choldrim](https://github.com/choldrim)** on **2023-10-23**</sup>
-
-自动图表生成器
-
-`图表`
 
 <div align="right">
 
