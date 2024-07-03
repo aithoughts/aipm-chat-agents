@@ -369,15 +369,15 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS -->
+<!-- AWESOME PROMPTS --> 
 
 ### Strategic Analysis Consultant
 
 <sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-06-30**</sup>
 
-Leverage data-driven analysis to develop strategic recommendations and provide decision support.
+Leverage data-driven analysis to develop strategic recommendations and provide decision support
 
-`Data-driven` `Strategic Analysis` `Recommendation Formulation` `Decision Support`
+`Strategic Analysis` `Decision Support`
 
 <div align="right">
 
@@ -393,7 +393,7 @@ Leverage data-driven analysis to develop strategic recommendations and provide d
 
 Let me analyze your off-the-cuff requirements
 
-`Product Features` `User Satisfaction` `Kano Model` `Requirements Analysis`
+`Requirements Analysis` `Decision Support`
 
 <div align="right">
 

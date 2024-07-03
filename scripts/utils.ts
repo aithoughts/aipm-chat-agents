@@ -30,6 +30,15 @@ export const getLocaleAgentFileName = (id: string, locale?: string) => {
   return id + localeSuffix + ".json";
 };
 
+export const uniqueTags = (tags: string[]): string[] => {
+  let alltags = tags;
+  // 使用 Set 去除重复值
+  const uniqueTags = new Set(alltags);
+  // 将 Set 转换为数组
+  tags = Array.from(uniqueTags);
+  return tags;
+}
+
 export const findDuplicates = (arr: string[]): string[] => {
   const duplicates: { [key: string]: number } = {};
 

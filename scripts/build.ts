@@ -18,7 +18,7 @@ import { LobeAgent, lobeAgentSchema } from "./schema/agentMeta";
 import {
   checkDir,
   checkJSON,
-  findDuplicates,
+  uniqueTags,
   getLocaleAgentFileName,
 } from "./utils";
 
@@ -111,7 +111,7 @@ class Builder {
         tags = [...tags, ...agent.meta.tags];
       });
 
-      // tags = findDuplicates(tags);
+      tags = uniqueTags(tags);
 
       const agentsIndex = { ...meta, tags, agents };
 
