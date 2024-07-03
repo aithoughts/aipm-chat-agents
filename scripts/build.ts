@@ -111,7 +111,7 @@ class Builder {
         tags = [...tags, ...agent.meta.tags];
       });
 
-      tags = findDuplicates(tags);
+      // tags = findDuplicates(tags);
 
       const agentsIndex = { ...meta, tags, agents };
 
