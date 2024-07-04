@@ -37,7 +37,7 @@ export const uniqueTags = (tags: string[]): string[] => {
   // 将 Set 转换为数组
   tags = Array.from(uniqueTags);
   return tags;
-}
+};
 
 export const findDuplicates = (arr: string[]): string[] => {
   const duplicates: { [key: string]: number } = {};

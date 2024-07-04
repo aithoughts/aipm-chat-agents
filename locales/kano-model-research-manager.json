@@ -10,10 +10,7 @@
   "meta": {
     "avatar": "🤠",
     "description": "Let me analyze your off-the-cuff requirements",
-    "tags": [
-      "Requirements Analysis",
-      "Decision Support"
-    ],
+    "tags": ["Requirements Analysis", "Decision Support"],
     "title": "Requirements Analysis Manager"
   },
   "schemaVersion": 1

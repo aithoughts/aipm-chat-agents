@@ -369,7 +369,7 @@
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS --> 
+<!-- AWESOME PROMPTS -->
 
 ### 战略分析顾问
 
