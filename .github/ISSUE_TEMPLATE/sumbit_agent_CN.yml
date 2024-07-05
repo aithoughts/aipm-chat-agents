@@ -1,6 +1,6 @@
 name: '🤖 提交助手'
 description: '提交助手设定'
-title: '[Agent] 你的助名称'
+title: '[Agent] 您的助手名称'
 labels: ['🤖 Agent PR']
 body:
   - type: textarea
