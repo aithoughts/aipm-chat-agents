@@ -17,11 +17,12 @@ export const translateJSON = async (
 ) => {
   consola.info(`i18n generating...`);
   console.log(`i18n generating...`);
-  const res = await model.call(
+  const res = await model.invoke(
     [
       new SystemMessage(
         [
           `Translate the i18n JSON file from ${entryLocale} to ${outputLocale} according to the BCP 47 standard`,
+          `Delete all data except the JSON, removing "\`\`\`" and "json" strings as well.`,
           `Keep the keys the same as the original file and make sure the output remains a valid i18n JSON file.`,
         ].join("\n"),
       ),
