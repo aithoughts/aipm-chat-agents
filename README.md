@@ -369,13 +369,29 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS -->
+<!-- AWESOME PROMPTS --> 
+
+### Product Analysis Consultant
+
+<sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-07-05**</sup>
+
+Utilize AI tools for analysis, assist in rapid iteration and upgrades of products, and gain a competitive edge in the market!
+
+`Product Analysis` `Decision Support`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Strategic Analysis Consultant
 
 <sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-06-30**</sup>
 
-Leverage data-driven analysis to develop strategic recommendations and provide decision support
+Utilize data-driven analysis, formulate strategic recommendations, and provide decision support for you.
 
 `Strategic Analysis` `Decision Support`
 
@@ -387,13 +403,13 @@ Leverage data-driven analysis to develop strategic recommendations and provide d
 
 ---
 
-### Requirements Analysis Manager
+### Demand Analysis Manager
 
 <sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-06-26**</sup>
 
-Let me analyze your off-the-cuff requirements
+Even for spontaneous demands, we analyze first and foremost.
 
-`Requirements Analysis` `Decision Support`
+`Demand Analysis` `Decision Support`
 
 <div align="right">
 

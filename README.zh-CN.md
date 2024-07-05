@@ -369,7 +369,23 @@
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS -->
+<!-- AWESOME PROMPTS --> 
+
+### 产品分析顾问
+
+<sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-07-05**</sup>
+
+利用AI工具分析，帮助产品快速迭代升级，赢得市场先机！
+
+`产品分析` `决策支持`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 战略分析顾问
 
