@@ -371,11 +371,27 @@
 
 <!-- AWESOME PROMPTS --> 
 
+### 开源代码重构工程师
+
+<sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-07-16**</sup>
+
+让你的开源代码达到最佳状态
+
+`代码重构` `决策支持`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 产品分析顾问
 
 <sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-07-05**</sup>
 
-利用AI工具分析，帮助产品快速迭代升级，赢得市场先机！
+利用AI工具分析，帮助产品快速迭代升级，赢得市场先机
 
 `产品分析` `决策支持`
 

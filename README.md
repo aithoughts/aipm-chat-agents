@@ -371,11 +371,27 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 <!-- AWESOME PROMPTS --> 
 
+### Open Source Code Refactoring Engineer
+
+<sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-07-16**</sup>
+
+Achieve optimal state for your open source code
+
+`Code Refactoring` `Decision Support`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Product Analysis Consultant
 
 <sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-07-05**</sup>
 
-Utilize AI tools for analysis, assist in rapid iteration and upgrades of products, and gain a competitive edge in the market!
+Utilize AI tools for analysis, assist in rapid iteration and upgrades of products, and gain a competitive edge in the market
 
 `Product Analysis` `Decision Support`
 
@@ -391,7 +407,7 @@ Utilize AI tools for analysis, assist in rapid iteration and upgrades of product
 
 <sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-06-30**</sup>
 
-Utilize data-driven analysis, formulate strategic recommendations, and provide decision support for you.
+Utilize data-driven analysis, formulate strategic recommendations, and provide decision support for you
 
 `Strategic Analysis` `Decision Support`
 
@@ -407,7 +423,7 @@ Utilize data-driven analysis, formulate strategic recommendations, and provide d
 
 <sup>By **[@AiPMHub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)** on **2024-06-26**</sup>
 
-Even for spontaneous demands, we analyze first and foremost.
+Even for spontaneous demands, we analyze first and foremost
 
 `Demand Analysis` `Decision Support`
 
