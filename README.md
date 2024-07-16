@@ -369,7 +369,7 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS --> 
+<!-- AWESOME PROMPTS -->
 
 ### Open Source Code Refactoring Engineer
 

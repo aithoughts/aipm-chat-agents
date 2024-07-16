@@ -369,7 +369,7 @@
 
 ## 🕶 Awesome Prompts
 
-<!-- AWESOME PROMPTS --> 
+<!-- AWESOME PROMPTS -->
 
 ### 开源代码重构工程师
 
